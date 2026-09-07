@@ -28,9 +28,9 @@ public class downloadManager {
 
 
     }
-    public void updateUI(){
+    public void updateUI(FileInfo metaFile){
 
-        System.out.println(FileInfo metaFile );
+        System.out.println( );
 
     }
 }
